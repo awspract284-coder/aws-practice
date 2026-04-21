@@ -9,9 +9,9 @@ This repository tracks my hands-on learning with AWS and the CLI.
 
 ## Progress
 - [x] Created GitHub repo
-- [ ] Create local file in CloudShell
-- [ ] Upload file to S3
-- [ ] Verify file in S3
+- [x] Create local file in CloudShell
+- [x] Upload file to S3
+- [x] Verify file in S3
 
 ## Notes
 Documenting everything as I learn.
